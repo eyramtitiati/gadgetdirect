@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053264497637",
+    "project_id": "mgdapp-2022",
+    "storage_bucket": "mgdapp-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053264497637:android:18d15bb9d9e0d3e2433d0c",
+        "android_client_info": {
+          "package_name": "com.moriahgh.mgd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053264497637-ee4ffe62u0v878gf6i8vjge8bcu7j5ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moriahgh.mgd",
+            "certificate_hash": "cb958e0682482318c2951f86df1d42f77e1eb688"
+          }
+        },
+        {
+          "client_id": "1053264497637-ihghjk0tekrahih3so0h8tn5r75384k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUJpccugs4BlaxLI4s7OMsRYtKlgtG1lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053264497637-ihghjk0tekrahih3so0h8tn5r75384k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
