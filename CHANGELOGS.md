@@ -1,11 +1,10 @@
-## v2.7.0 24-May-2022
+## v1.7
 
 - Fixed: Login Firebase phone number on the web version
 - Fixed: Fixed layout grid not working in “Author widget” app builder
 - Fixed: Get post by author in author screen
 - Fixed: Select multi shipping methods
 - Fixed: Duplicate get cart request
-- Fixed: Missing Zulu language
 - Fixed: Update qty not working
 - Feat: Subscribing to topics, Unsubscribing from topics
 - Feat: Persist settings
@@ -22,8 +21,7 @@
 - Improved: performance product list
 - Improved: Show loading Webview on Android
 
-## v2.4.0 25-Jan-2022
-
+## v1.8 
 - Feature: Config default, include, exclude for input phone number
 - Chose: Unescape html in help & info section
 - Support: Audio in description and sort description product
