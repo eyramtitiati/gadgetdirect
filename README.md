@@ -1,16 +1,3 @@
-=== Version: 1.2.1 - Update 23-sep-2021 ===
-
-## Docs: https://appcheap.io/docs/cirilla-developers-docs/
-
-## How to Use
-
-**Step 1:**
-
-Download the source code in your profile => downloads
-
-**Step 2:**
-
-Go to project root and execute the following command in console to get the required dependencies: 
 
 ```
 flutter pub get 
